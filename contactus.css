@@ -1,0 +1,56 @@
+body{
+	background-color: #808080;
+}
+img{
+	height: 300px;
+	width: 300px;
+	}
+.block{
+	margin-left: 550px;
+	margin-top: 10px;
+	background-color: #e6e6e6;
+	width: 450px;
+	height: 700px;
+
+}
+img{
+	padding-top: 25px;
+}
+img,h1,h2,p
+{
+	padding-left: 75px;
+
+}
+a{
+	color: black;
+}
+a:hover
+{
+	color: blue;
+}
+h1{
+font-family: " Bebas Neue";
+	font-size: 40px;
+}
+
+#icon{
+	background-color: white;
+	width: 70px;
+	height: 70px;
+	position: absolute;left: 0px;top: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+}
+#logo{
+	font-size: 30px;
+	padding-left: 10px;
+	color: black;
+	float: left;
+	padding-top: 20px;
+	width: 240px;
+	height: 55px;
+	background-color: white;
+    margin-top: -12px;
+    margin-left: 60px;
+    border-radius: 10px;
+}

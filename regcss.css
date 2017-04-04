@@ -1,0 +1,87 @@
+body
+{
+	background-image: url(back2.jpg);
+
+	background-size: 1500px 900px;
+}
+#logo{
+	font-size: 30px;
+	padding-left: 10px;
+	color: black;
+	float: left;
+	padding-top: 20px;
+	width: 240px;
+	height: 55px;
+	background-color: white;
+    margin-top: -12px;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+img:hover{
+	background-color: #d3d3d3;
+}
+img{
+	background-color: white;
+	width: 70px;
+	height: 70px;
+	position: absolute;left: 0px;top: 0px;
+}
+#logo{
+	color: black;
+	float: left;
+	padding-top: 20px;
+	width: 240px;
+	height: 55px;
+	background-color: white;
+    margin-top: -12px;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+
+#signup{
+	position: absolute;left: 675px;top: 120px;
+	font-size: 50px;color: #d3d3d3;
+}
+#main{
+	
+	font-size: 20px;
+	background-color: #333;
+	margin-left: 550px;
+	margin-top: 100px;
+	width: 375px;
+	height: 450px;
+	color: #d3d3d3;
+	line-height: 60px;
+	border-radius:20px;
+    padding-left: 40px;
+    padding-top: 140px;
+}
+.near{
+	line-height: 30px;
+}
+#button{
+	font-size: 16px;
+
+
+}
+
+label{
+	display: block;
+
+}
+.border{
+	border-style: solid;
+	border-radius: 5px;
+	font-size: 20px;
+	}
+a{
+	text-decoration: underline;
+	color: #d3d3d3;
+}
+a:hover{
+	color: black;
+}
+input:focus{
+	background-color: #d3d3d3;
+	
+}
